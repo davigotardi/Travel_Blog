@@ -8,7 +8,7 @@ function Home() {
         <div id="carouselExample" className="carousel slide">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c3dpdHplcmxhbmR8ZW58MHx8MHx8fDA%3D" className="d-block w-100" alt="..." />
+              <img src="https://i.pinimg.com/originals/36/11/a5/3611a52ee056dc305d7a0f6118f6e865.jpg" className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
               <img src="https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YnJhemlsfGVufDB8fDB8fHww" className="d-block w-100" alt="..." />
